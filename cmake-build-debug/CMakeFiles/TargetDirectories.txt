@@ -1,0 +1,3 @@
+C:/Users/DroidEye/Desktop/Programme/CLionProjects/SingerMatch/cmake-build-debug/CMakeFiles/SingerMatch.dir
+C:/Users/DroidEye/Desktop/Programme/CLionProjects/SingerMatch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DroidEye/Desktop/Programme/CLionProjects/SingerMatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
